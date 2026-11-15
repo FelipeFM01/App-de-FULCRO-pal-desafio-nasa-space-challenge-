@@ -1,0 +1,8 @@
+{
+  "name": "Remix PyroCal — Calendario Armonizado de Actividad de Incendios",
+  "description": "Plataforma científica y operativa que armoniza focos activos MODIS y VIIRS en un calendario histórico de incendios, con delimitación interactiva de área de interés, carga de datos CSV/Excel y detección de áreas recurrentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
